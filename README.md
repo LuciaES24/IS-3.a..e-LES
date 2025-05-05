@@ -170,7 +170,7 @@ Se debe asignar al personal autorizado capacitado para realizar la investigació
 + Mantener la evidencia alejada de fuentes magnéticas.
 + Documentar el embalaje.
 
-### Fase 3: Akmacenamiento seguro de la evidencia
+### Fase 3: Almacenamiento seguro de la evidencia
 
 #### 1. Recepción y registro en el laboratorio
 
@@ -235,6 +235,10 @@ Al contrario que Att&ck, permite investigar un incidente desde el punto de vista
 + **Lecciones aprendidas**: A partir de los sucesos y los pasos llevados a cabo durante el incidente, se toman unas pautas sobre los pasos que han sido positivos y negativos durante la defensa.
 
 Al igual que con Att&ck existe un navegador interactivo, con las técnicas enumeradas en cada fase. Este proyecto es muy ambicioso ya que comtempla la recopilación de playbooks.
+
+## Esquema 
+
+![Esquema unidad 3](esquema.png)
 
 ## Conclusiones personales
 
