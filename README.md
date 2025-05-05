@@ -235,3 +235,9 @@ Al contrario que Att&ck, permite investigar un incidente desde el punto de vista
 + **Lecciones aprendidas**: A partir de los sucesos y los pasos llevados a cabo durante el incidente, se toman unas pautas sobre los pasos que han sido positivos y negativos durante la defensa.
 
 Al igual que con Att&ck existe un navegador interactivo, con las técnicas enumeradas en cada fase. Este proyecto es muy ambicioso ya que comtempla la recopilación de playbooks.
+
+## Conclusiones personales
+
+De los proyectos que se han realizado durante la unidad, ninguno me ha parecido complicado. Por otro lado, el que me ha parecido más interesante es el de Mitre, en el que en mi caso he tenido que investigar Mitre Re&ct, que me parece una herramienta muy interesante para combinar con Mitre Att&ck, sobre todo en pruebas de red team/blue team.
+De los dos cuestionarios que hemos realizado en esta unidad el más fácil de hacer ha sido el de la explotación del kernel. Esta forma de realizar actividades o proyectos me ha gustado mucho ya que es diferente a la mayoría de proyectos que realizamos.
+En general el tema está bien distribuido, tratando diversos temas sin tener una información excesiva.
